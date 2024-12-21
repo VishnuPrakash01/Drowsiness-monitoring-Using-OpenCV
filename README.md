@@ -77,6 +77,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For queries or support, please contact: vishnuprakashl0112@gmail.com
+For queries or support, please contact: [vishnu] vishnuprakashl0112@gmail.com
 
 Stay safe and stay awake!
